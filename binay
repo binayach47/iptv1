@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:-1,DD Bihar
+http://z5ams.akamaized.net/ddbihar/tracks-v1a1/index.m3u8
+#EXTINF:-1,DD Bangla
+http://z5ams.akamaized.net/ddbangla/tracks-v1a1/index.m3u8
+#EXTINF:-1,DD India
+http://z5ams.akamaized.net/ddindia/tracks-v1a1/index.m3u8
+#EXTINF:-1,DD Girnar
+http://z5ams.akamaized.net/ddgirnar/tracks-v1a1/index.m3u8
+#EXTINF:-1,DD Malayalam
+http://z5ams.akamaized.net/ddmalayalam/tracks-v1a1/index.m3u8
+#EXTINF:-1,DD Kisan
+http:/z5ams.akamaized.net/ddkisan/tracks-v1a1/index.m3u8
+#EXTINF:-1,DD Odia
+http://z5ams.akamaized.net/ddodia/tracks-v1a1/index.m3u8
+#EXTINF:-1,DD News
+http://z5ams.akamaized.net/ddnews/tracks-v1a1/index.m3u8
+#EXTINF:-1,DD Punjabi
+http://z5ams.akamaized.net/ddpunjabi/tracks-v1a1/index.m3u8
+#EXTINF:-1,DD Podhigai
+http://z5ams.akamaized.net/ddpodhigai/tracks-v1a1/index.m3u8
+#EXTINF:-1,DD Sahyadri
+http://z5ams.akamaized.net/ddsahyadri/tracks-v1a1/index.m3u8
+#EXTINF:-1,DD Rajasthan
+http://z5ams.akamaized.net/ddrajasthan/tracks-v1a1/index.m3u8
+#EXTINF:-1,DD Yadagiri
+http://z5ams.akamaized.net/ddyadagiri/tracks-v1a1/index.m3u8
+#EXTINF:-1,Divya
+http:/z5ams.akamaized.net/divyatv/tracks-v1a1/index.m3u8
+#EXTINF:-1,BBC World News
+http://z5ams.akamaized.net/bbcworldnews/tracks-v1a1/index.m3u8
+#EXTINF:-1,Living Foodz
+http://z5ams.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
+#EXTINF:-1,Flowers TV
+http://z5ams.akamaized.net/flowerstv/tracks-v1a1/index.m3u8
+#EXTINF:-1,Пого
+http://z5ams.akamaized.net/pogo/tracks-v1a1/index.m3u8
+#EXTINF:-1,Makkal TV
+http://z5ams.akamaized.net/makkaltv/tracks-v1a1/index.m3u8
+#EXTINF:-1,Raj Musix (Малаялам)
+http://z5ams.akamaized.net/rajmusixmal/tracks-v1a1/index.m3u8
+#EXTINF:-1,Raj Musix (Kannada)
+http://z5ams.akamaized.net/rajmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1,Raj Musix (телугу)
+http://z5ams.akamaized.net/rajmusixtracks-v1a1/index.m3u8
+#EXTINF:-1,Raj Musix (тамильский)
+http://z5ams.akamaized.net/rajmusix/tracks-v1a1/index.m3u8
+#EXTINF:-1,Raj News (Малаялам)
+http://z5ams.akamaized.net/rajnewsmal/tracks-v1a1/index.m3u8
+#EXTINF:-1,Raj News (Kannada)
+http://z5ams.akamaized.net/rajnewskan/tracks-v1a1/index.m3u8
+#EXTINF:-1,Raj Новости 24×7
+http://z5ams.akamaized.net/rajnews/tracks-v1a1/index.m3u8
+#EXTINF:-1,Raj News (Телугу)
+http://z5ams.akamaized.net/rajnewstel/tracks-v1a1/index.m3u8
+#EXTINF:-1,Raj TV
+http://z5ams.akamaized.net/rajtv/tracks-v1a1/index.m3u8
+#EXTINF:-1,Satsang
+http://z5ams.akamaized.net/satsangtv/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sanskar
+http://z5ams.akamaized.net/sanskartv/tracks-v1a1/index.m3u8
+#EXTINF:-1,Wion
+http://z5ams.akamaized.net/wion/tracks-v1a1/index.m3u8
+#EXTINF:-1,Vissa TV
+http://z5ams.akamaized.net/vissatv/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee 24 Kalak
+http:/z5ams.akamaized.net/kalak/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee 24 Ghanta
+http://z5ams.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Action
+http://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee 24 Taas
+http://z5ams.akamaized.net/24taas/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Bangla HD
+http://z5ams.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Bangla
+http://z5ams.akamaized.net/zeebanglasd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Business
+http://z5ams.akamaized.net/zeebusiness/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Bihar JH
+http://z5ams.akamaized.net/biharjharkh/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Cafe HD
+http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Cafe
+http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Etc
+http://z5ams.akamaized.net/etc/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Cinema HD
+http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Cinema
+http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Cinema SD
+http://z5ams.akamaized.net/zcinemalusd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Зее Калинга
+http://z5ams.akamaized.net/kalinga/tracks-v1a1/index.m3u8
+#EXTINF:-1,Зи Хиндустан
+http://z5ams.akamaized.net/hindustan/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Kannada
+http://z5ams.akamaized.net/zkannada/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Marathi
+http:/z5ams.akamaized.net/zmarathisd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee MP CG
+http://z5ams.akamaized.net/newsmpcg/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Magic
+http://z5ams.akamaized.net/magic/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Marathi HD
+http:/z5ams.akamaized.net/zmarathihd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee News
+http://z5ams.akamaized.net/zeenews/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Punjabi
+http://z5ams.akamaized.net/punjabi/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Salaam
+http://z5ams.akamaized.net/zeesalaam/tracks-v1a1/index.m3u8
+#EXTINF:-1,Зее Раджастхан
+http://z5ams.akamaized.net/rajasthan/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee UP UK
+http:/z5ams.akamaized.net/zeenewsupuk/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee TV HD
+http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zing
+http://z5ams.akamaized.net/zing/tracks-v1a1/index.m3u8
+#EXTINF:-1,Зее Юва
+http://z5ams.akamaized.net/zyuva/tracks-v1a1/index.m3u8
